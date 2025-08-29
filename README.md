@@ -35,9 +35,9 @@ graph TD
 
 ## Soluciones tecnologicas 
 
-* Quiero crear una idea de negocio que sea rentable, escalable y con potencial de crecimiento digital. Estoy interesada en la salud mental de los estudiantes. Sugiere 3 ideas innovadoras que incluyan el uso de tecnología (como apps, plataformas web o soluciones digitales). Me gustaría que fueran accesibles con bajo presupuesto inicial y que puedan crecer progresivamente. Incluye una breve descripción de cada idea, el público objetivo y el problema que resuelve
+* Quiero crear una idea de negocio que sea rentable, escalable y con potencial de crecimiento digital. Estoy interesada en la salud mental de los estudiantes. Sugiere 3 ideas innovadoras que incluyan el uso de tecnología (como apps, plataformas web o soluciones digitales). Me gustaría que fueran accesibles con bajo presupuesto inicial y que puedan crecer progresivamente. Incluye una breve descripción de cada idea, el público objetivo y el problema que resuelve. *
 
-* 1. App “MenteCheck” – Autoevaluación y guía emocional diaria
+1. App “MenteCheck” – Autoevaluación y guía emocional diaria
 
 Descripción:
 Una aplicación móvil que permite a los estudiantes realizar chequeos emocionales diarios (tipo “check-in”), detectar señales tempranas de estrés, ansiedad o depresión, y recibir micro-recomendaciones personalizadas (ejercicios de respiración, técnicas de mindfulness, videos breves, etc.). Incorpora IA para adaptar el contenido a cada usuario.
@@ -79,4 +79,6 @@ La falta de espacios estructurados dentro del entorno académico para trabajar e
 Escalabilidad:
 Se ofrece como herramienta gratuita básica para escuelas con opciones de suscripción para más funciones (reportes, personalización, seguimiento grupal). Puede expandirse fácilmente a distintos países o contextos educativos.
 
-* Eleji la opcion 1 ya que me llama la tencion la atencio que le da a jovenes menores de edad y adolecentes universitarios ya que se han visto varios casos cuicidas de estudiantes. otra cosa que me llamo la tencion son los chequeos diarios y la recomendacion de ejercicios para el estres, enojo, etc. 
+## Autoevaluación y guía emocional diaria 
+
+ Eleji la opcion 1 ya que me llama la tencion la atencio que le da a jovenes menores de edad y adolecentes universitarios ya que se han visto varios casos cuicidas de estudiantes. otra cosa que me llamo la tencion son los chequeos diarios y la recomendacion de ejercicios para el estres, enojo, etc. 

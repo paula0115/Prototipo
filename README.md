@@ -33,6 +33,8 @@ graph TD
 
 # Prompt 
 
+Como estudiante de Ingeniería de Sistemas, he observado una problemática recurrente que afecta especialmente a estudiantes de niveles escolares: la dificultad para realizar investigaciones académicas debido al uso de fuentes no confiables en internet. Esta situación se presenta con frecuencia en el caso de mi hermano, cuyos trabajos suelen ser rechazados por los docentes por no contar con información verificada. Esta falta de acceso a recursos confiables no solo genera confusión, sino que también afecta negativamente el aprendizaje. Por ello, propongo el desarrollo de una aplicación que concentre contenido académico validado, como libros digitales, enciclopedias, artículos científicos e informes universitarios, con el fin de brindar a los estudiantes una herramienta eficiente y segura para realizar sus investigaciones escolares.
+
 ## Soluciones tecnologicas 
 
 * Quiero crear una idea de negocio que sea rentable, escalable y con potencial de crecimiento digital. Estoy interesada en la salud mental de los estudiantes. Sugiere 3 ideas innovadoras que incluyan el uso de tecnología (como apps, plataformas web o soluciones digitales). Me gustaría que fueran accesibles con bajo presupuesto inicial y que puedan crecer progresivamente. Incluye una breve descripción de cada idea, el público objetivo y el problema que resuelve. *
